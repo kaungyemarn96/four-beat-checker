@@ -1,0 +1,30 @@
+{
+  "name": "four-beat-checker",
+  "version": "1.0.0",
+  "released": "2026-08-19",
+  "knowledgeBaseCurrentAsOf": "2026-08",
+  "author": "Kaung Ye Marn",
+  "homepage": "https://kaungyemarn.vercel.app/products/guide",
+  "repository": "https://github.com/kaungyemarn96/four-beat-checker",
+  "licence": "See LICENCE.md — free to use inside your company, not to resell.",
+  "price": "Free",
+  "summary": "Diagnoses whether a guide or how-to draft has the four-beat structure, and names the one fix that would do the most.",
+  "layers": {
+    "SKILL.md": "Orchestration. Read on every invocation.",
+    "knowledge-base/": "Reference. Loaded conditionally, per the rules in SKILL.md.",
+    "client/": "Yours. Blank templates you fill in; never overwritten by an update."
+  },
+  "files": [
+    "SKILL.md",
+    "knowledge-base/four-beats.md",
+    "knowledge-base/worked-examples.md",
+    "client/voice-profile.md"
+  ],
+  "changelog": [
+    {
+      "version": "1.0.0",
+      "date": "2026-08-19",
+      "notes": "First release. Four-beat diagnosis, grading calibration, conditional loading rules, a blank voice profile, and an opening gate that names commentary and analysis as different shapes rather than failing them as guides."
+    }
+  ]
+}
