@@ -1,5 +1,8 @@
 # Four-Beat Checker
 
+[![Downloads](https://img.shields.io/github/downloads/kaungyemarn96/four-beat-checker/total?label=downloads&color=2f6f4e)](https://github.com/kaungyemarn96/four-beat-checker/releases/latest)
+[![Latest release](https://img.shields.io/github/v/release/kaungyemarn96/four-beat-checker?label=release&color=2f6f4e)](https://github.com/kaungyemarn96/four-beat-checker/releases/latest)
+
 A free, complete Claude Skill. It reads a guide or how-to draft and tells you
 whether it has the shape a guide needs — and if not, which single fix would do
 the most.
