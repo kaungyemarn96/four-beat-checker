@@ -82,7 +82,7 @@ It is a working sample. If it is useful, the same method scales to a full
 editorial system: a workflow catalog, a router deciding where any new
 instruction goes, rule files that load conditionally, and a paper trail of what
 changed and why. That is described at
-[kaungyemarn.vercel.app/products/guide](https://kaungyemarn.vercel.app/products/guide).
+[kaungyemarn.com/products/guide](https://kaungyemarn.com/products/guide).
 
 No signup, no email capture, no upsell inside the skill. If you never speak to
 me and just use it, that is a fine outcome.
@@ -102,4 +102,4 @@ me and just use it, that is a fine outcome.
 Free to use and modify inside your company. Not to resell or offer as a service.
 Full terms in [LICENCE.md](LICENCE.md).
 
-Built by [Kaung Ye Marn](https://kaungyemarn.vercel.app).
+Built by [Kaung Ye Marn](https://kaungyemarn.com).
