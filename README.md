@@ -10,6 +10,11 @@ the most.
 It does one narrow thing. It does not rewrite your draft, propose hooks, or
 edit your voice.
 
+There is also a guided version you can try in your browser, without Claude:
+https://kaungyemarn.com/resources/tools/four-beat-checker. It asks you to find
+the line for each beat yourself, so it is a self-check and not an automatic
+grade. This package is the one that grades.
+
 **Version 1.0.0 · Knowledge base current as of August 2026 · Free, no expiry**
 
 ---
